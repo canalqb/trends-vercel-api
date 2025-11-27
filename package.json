@@ -1,0 +1,12 @@
+{
+  "name": "trends-vercel-api",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "puppeteer": "^21.0.0"
+  }
+}
